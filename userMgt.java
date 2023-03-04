@@ -1,5 +1,4 @@
-Landmark
-Simon
+Landmard
 Dominion
 Ayo
 Obi
