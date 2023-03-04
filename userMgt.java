@@ -3,5 +3,4 @@ Simon
 Dominion
 Ayo
 Obi
-manager
-astrid
+mercy 
